@@ -51,7 +51,7 @@ void Inten(int n)
 }
 ``````````
 
-## 3. Hàm có đối con trỏ (tham chiểu)
+## 3. Hàm có đối con trỏ (tham chiếu)
 
 - đối của hàm kiểu dữ liệu nào thì tham soó thực tương ứng phải là địa chỉ của biến kiểu tương ứng.
 - sử dụng khi muốn bảo lưu kết quả tính toán của các đối số trong hàm.
