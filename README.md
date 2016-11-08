@@ -20,7 +20,7 @@ Kieu_tra_ve Ten_ham(Danh_sach_tham_so)
 Trong đó:
 - Kieu_tra_ve : kiểu dữ liệu sẽ trả về cho hàm
 - ten_ham : tên của hàm, khi gọi tên này thì sẽ gọi đến hàm và thực hieẹn công việc được hàm định nghĩa
-- Danh_sach_tham_so: là khai báo các tham số hình thức để truyền dữ liệu.
+- Danh_sach_tham_so: là khai báo các tham số hình thức để truyền tham trị.
 - khai báo biến cục bộ: ( tùy chương trình có thể có hoặc không) các biến này được sử dụng trong nội bộ hàm
 - lệnh: các llệnh thực hiện công việc của hàm
 - return: gán giá trị trả về cho hàm.
@@ -50,6 +50,8 @@ void Inten(int n)
       pritnf("%d. ten ",i);
 }
 ``````````
+
+## 2.
 
 
  
